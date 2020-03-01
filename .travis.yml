@@ -22,4 +22,4 @@ after_success:
     - docker push andrewleung01/multi-nginx
     - docker push andrewleung01/multi-worker
     - docker push andrewleung01/multi-server
-    
+
